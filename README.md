@@ -8,12 +8,12 @@ Console-based Tetris clone ported from BSD to Windows. Based on original work by
 - Next-piece preview
 - Keyboard controls:
 
-  ← Left Arrow    : Move piece left  
-  → Right Arrow   : Move piece right  
-  ↑ Up Arrow      : Rotate piece  
-  ↓ Down Arrow    : Speed up falling  
-  Spacebar        : Hard drop (instant fall)  
-  ESC             : Exit game
+  ← Left Arrow    :   Move piece left  
+  → Right Arrow   :   Move piece right  
+  ↑ Up Arrow      :   Rotate piece  
+  ↓ Down Arrow    :   Speed up falling  
+  Spacebar        :   Hard drop (instant fall)  
+  ESC             :   Exit game
 
 ## Build
 ```bash
