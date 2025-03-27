@@ -15,3 +15,5 @@ gcc tetris.c -o tetris.exe -luser32
 
 # Visual Studio
 cl tetris.c /Fetetris.exe /link User32.lib
+
+This version maintains all original game mechanics while adding Windows-specific enhancements.
